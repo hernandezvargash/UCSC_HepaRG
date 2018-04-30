@@ -1,3 +1,4 @@
+chrom	chromStart	chromEnd	name	score	strand
 chr1	10525	10526	cg14817997	33.5534227326047	+
 chr1	10848	10849	cg26928153	0	-
 chr1	10850	10851	cg16269199	0	-
